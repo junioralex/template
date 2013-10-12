@@ -1,0 +1,93 @@
+html, body {
+	margin: 0;
+	padding: 0;
+
+}
+
+#wrapper{
+	width: 760px;
+	margin: auto;
+}
+
+#header{
+	width: 760px;
+	height: 100px;
+	background: #999999;
+}
+
+#content{
+	width: 380px; 
+	float: left;
+	background: #000099;
+	font-family: Lucida Calligraphy, Arial;
+	color: yellow;
+	font-weight: bold;
+	padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+
+#sidebar{
+	width: 380px;
+	float: right;
+	background: #6600FF;
+	font-family: Lucida Calligraphy, Arial;
+	color: yellow;
+	font-weight: bold;
+	padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+
+.container{
+	overflow: hidden;
+}
+
+#form{
+	background: #CC99FF;
+	padding: 8px;
+}
+
+/*
+.column1 {
+    float: left;
+    margin: 20px;
+    background-color: red;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+
+.column2 {
+    float: left;
+    margin: 20px;
+    background-color: red;
+    padding-bottom: 1000px;
+    margin-bottom: -1000px;
+}
+*/
+
+
+li {
+	display: inline;
+	text-align: center;
+	padding: 13px;
+	margin: 25px;
+	font-family: Lucida Calligraphy, Arial;
+	color: yellow;
+}
+
+#footer{
+	width: 760px;
+	background: #040406;
+	font-family: Lucida Calligraphy, Arial;
+	font-weight: bold;
+	color: yellow;
+	border: 1px solid pink;
+}
+a:link{
+	color: yellow;
+}
+a:visited{
+	color: yellow;
+} 
+a:hover{
+	color:#FF00FF;
+}
