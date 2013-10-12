@@ -1,0 +1,2 @@
+1. This is an HTML document that uses CSS to experiment with layouts.
+2. Something that wasn't in the book that was tricky was how to form the content and sidebar divs so that they remain the same size regardless of the content in either.
